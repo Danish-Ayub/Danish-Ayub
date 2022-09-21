@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Summaiya Begum</h1>
+<!-- <h1 align="center">Hi 👋, I'm Summaiya Begum</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align='right' src="https://miro.medium.com/max/1050/1*qdAW1TjCN57h1lbuuzvchg.gif" width="230">
@@ -79,7 +79,7 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=summaiya-begum&" alt="summaiya-begum" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=summaiya-begum&theme=dracula&hide_border=true" alt="summaiya-begum"/></p>
 
-<img alt="Summaiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Summaiya-Begum&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Summaiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Summaiya-Begum&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
 
 
 
