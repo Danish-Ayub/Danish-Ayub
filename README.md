@@ -1,4 +1,4 @@
-I am a software engineer from Pakistan.
+I am a Software Engineer from Pakistan.
 
 Besides work I enjoy Running, Weightlifting and other activities.
 
